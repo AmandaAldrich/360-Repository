@@ -13,3 +13,6 @@ Amanda Aldrich
 Joshua Lau 
 Taylor Ricetti
 Stanley Hu
+
+
+#Taylor has edit this README
