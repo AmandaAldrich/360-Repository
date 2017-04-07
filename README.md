@@ -15,5 +15,5 @@ Taylor Ricetti
 Stanley Hu
 
 
-#Taylor has edit this README
+#Taylor has edited this README
 ye - jimmy
